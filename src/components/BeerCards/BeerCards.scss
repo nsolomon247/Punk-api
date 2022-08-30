@@ -1,0 +1,37 @@
+.image {
+    margin-top: 40px;
+    height: 32vh;
+    width: 12vh;
+    background-color: transparent;
+}
+
+.individualCard {
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 30vh;
+    height: 75vh;
+    border: 2px solid #D3D3D3;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px 2px #D3D3D3;
+    background-color: white;
+
+}
+
+.individualCard:hover {
+    width: 35vh;
+    height: 65vh;
+    background-color:#D3D3D3;
+    }
+
+.headingText {
+    text-align: center;
+    justify-content: center;
+    background-color: transparent;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+

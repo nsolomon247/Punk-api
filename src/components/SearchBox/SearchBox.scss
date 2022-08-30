@@ -1,0 +1,11 @@
+.side-selections {
+    display: flex;
+    flex-direction: column;
+}
+
+.search-box * {
+    background-color: white;
+    width: 220px;
+    height: 20px;
+    font-size: 17px;
+}

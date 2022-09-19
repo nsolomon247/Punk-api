@@ -12,6 +12,7 @@ const ExploreBeers = (props) => {
         const cleanInput = event.target.value;
         setSearchTerm(cleanInput);
     }
+    
 
     const [isChecked, setIsChecked] = useState(false);
 
